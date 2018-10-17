@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using S10E2.Models.ViewModels;
 using S10E2.Models;
 
 namespace S10E2.Controllers {
