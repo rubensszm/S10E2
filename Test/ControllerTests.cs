@@ -1,5 +1,5 @@
 using System;
-using S10E2.Controllers;
+using SalesWeb.Controllers;
 using Xunit;
 using Microsoft.AspNetCore.Mvc;
 

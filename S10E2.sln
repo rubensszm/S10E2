@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S10E2", "S10E2\S10E2.csproj", "{4239B024-0756-4987-97BB-D8DEA8BED296}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesWeb", "S10E2\SalesWeb.csproj", "{4239B024-0756-4987-97BB-D8DEA8BED296}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{95AB8A63-2685-4FC7-A476-2576BF727139}"
 EndProject

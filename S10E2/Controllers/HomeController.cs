@@ -4,10 +4,10 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using S10E2.Models.ViewModels;
-using S10E2.Models;
+using SalesWeb.Models.ViewModels;
+using SalesWeb.Models;
 
-namespace S10E2.Controllers {
+namespace SalesWeb.Controllers {
     public class HomeController : Controller {
         public IActionResult Index() {
             return View();

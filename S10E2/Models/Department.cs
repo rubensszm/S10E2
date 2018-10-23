@@ -1,5 +1,5 @@
 ﻿using System;
-namespace S10E2.Models
+namespace SalesWeb.Models
 {
     public class Department
     {

@@ -11,6 +11,10 @@
   <ItemGroup>
     <Folder Include="Models\ViewModels\" />
     <Folder Include="Views\Departments\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Template.cshtml" />
   </ItemGroup>
   <ProjectExtensions>
     <MonoDevelop>
